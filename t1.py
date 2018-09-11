@@ -2,5 +2,5 @@
 def fun(x):
     return str(x)
 
-def fun2(x):
+def fun23(x):
     return str(x)

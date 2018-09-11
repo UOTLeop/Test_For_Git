@@ -1,5 +1,5 @@
 # This is the test file for the git test
-def fun(x):
+def funy(x):
     return str(x)
 
 def fun2(x):
